@@ -2,6 +2,8 @@
 Inspired by https://learn.adafruit.com/gmailbox/, triggered my MQTT messages. "up" moves the flag up, "down" moves the flag down.
 This is a mash-up of https://github.com/espressif/esp-idf/tree/6330b3345e87eb4401e7be7c8b6fea2870c35d9f/examples/protocols/mqtt/tcp and https://github.com/espressif/esp-idf/tree/6330b3345e87eb4401e7be7c8b6fea2870c35d9f/examples/peripherals/mcpwm/mcpwm_servo_control.
 
+Included is the STEP file containing a model inspired by the "DMP Rural Mailbox - Black Plastic". It is roughly 1/4 scale.
+
 ### Configure the project
 
 * Open the project configuration menu (`idf.py menuconfig`)
